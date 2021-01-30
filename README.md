@@ -1,2 +1,2 @@
-# GoogleColabNotes
-Some Useful notes for google-colab-notebook.
+# Python notes
+Some Useful notes for python in google-colab-notebook.
